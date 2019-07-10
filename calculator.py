@@ -63,6 +63,4 @@ Division=Button(cal,padx=16,pady=16,bd=8, fg="black", font=('arial',20,bold),
             text="/",bg="powder blue",command=lambda:btnClick("/")).grid(row=4,column=3)
 
 
-
-
 cal.mainloop()
